@@ -20,3 +20,7 @@ pip install -r requirements.txt
 # Run Jupyter File
 
 **StableDiffusion.ipynb**
+
+# Sample Generated image
+
+*Query*
