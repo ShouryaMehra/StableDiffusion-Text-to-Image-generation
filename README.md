@@ -18,4 +18,5 @@ pip install -r requirements.txt
 ```
 
 # Run Jupyter File
-StableDiffusion.ipynb
+
+**StableDiffusion.ipynb**
