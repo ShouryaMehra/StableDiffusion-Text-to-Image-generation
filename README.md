@@ -23,4 +23,7 @@ pip install -r requirements.txt
 
 # Sample Generated image
 
-*Query*
+**Query** : produce a real world Artificial intelligence
+
+![AI](https://user-images.githubusercontent.com/35097344/210740043-21d135e4-6b52-40c2-abd2-bf688118bacc.png)
+
